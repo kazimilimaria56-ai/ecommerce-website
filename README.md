@@ -1,4 +1,4 @@
-# ecommerce-website
+# ecommerce-website not lest than 10 commits to each contributer
 
 Ecommerce website project for software class.
 
