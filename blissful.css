@@ -1,0 +1,40 @@
+body{
+    padding: 0;
+    margin: 0;
+    block-size: border-box;
+    } 
+    .happy{
+    background-color: green;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 5px;
+    width: 1000px;
+    color: white;
+}
+    img{
+        width: 400px;
+        
+    }
+    .right{
+        width: 550px;
+        
+    }
+    html{
+        padding: 20px;
+        background-color: grey;
+        margin: 0px;
+
+       }
+       p{
+        font-size: 15px;
+       }
+       .aloyce{
+        display: flex;
+        justify-content:center
+       }
+       .bea{
+        margin-left: 160px;
+        margin-top: 30px;
+    
+       }
